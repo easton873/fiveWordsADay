@@ -2,7 +2,7 @@ package main
 
 import (
 	"database/sql"
-	"fiveWordsADay/log"
+	"github.com/easton873/five-words-a-day/log"
 	_ "modernc.org/sqlite"
 )
 

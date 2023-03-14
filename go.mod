@@ -1,4 +1,4 @@
-module fiveWordsADay
+module github.com/easton873/five-words-a-day
 
 go 1.19
 

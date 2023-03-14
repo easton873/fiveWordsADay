@@ -2,8 +2,8 @@ package main
 
 import (
 	"encoding/json"
-	myLog "fiveWordsADay/log"
 	"fmt"
+	myLog "github.com/easton873/five-words-a-day/log"
 	"log"
 	"net/http"
 )
